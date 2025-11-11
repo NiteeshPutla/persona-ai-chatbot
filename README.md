@@ -37,7 +37,7 @@ User Message → Persona Detection → Thread Routing → Context Loading → LL
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NiteeshPutla/persona-ai-chatbot
    cd Persona-ai-chat-bot
    ```
 
